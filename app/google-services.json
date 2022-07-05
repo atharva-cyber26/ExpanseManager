@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "373519723968",
+    "firebase_url": "https://gopal-nagar-default-rtdb.firebaseio.com",
+    "project_id": "gopal-nagar",
+    "storage_bucket": "gopal-nagar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373519723968:android:45c7920d4e40587343ec25",
+        "android_client_info": {
+          "package_name": "com.example.gopalnagar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373519723968-kvnk73ot7s42nrq14npdb6ttlq7rpsc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHD0LGsbMGWxGjD8Uds9GEdLgpSrz8liA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373519723968-kvnk73ot7s42nrq14npdb6ttlq7rpsc7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
